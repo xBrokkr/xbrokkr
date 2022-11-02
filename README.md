@@ -14,6 +14,6 @@
 - 🔭 Working on Turkey
 - 🌱 I’m currently learning **solidity**
 - 👨‍💻 All of my projects are available at [https://github.com/xbrokkr](https://github.com/xbrokkr)
-- 📝 I regularly write articles on [https://medium.com/@xbrokkr](https://medium.com/@xbrokkr)
+- 📝 I regularly write articles on [https://brokkr.medium.com/](https://brokkr.medium.com/)
 - 📫 Contact on **xbrokkr@proton.me**
 
