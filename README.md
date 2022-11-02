@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's Brokkr</h1>
-<h3 align="center">web3 developer, developing solution projects</h3>
+<h3 align="center">web3 developer, graphic designer.</h3>
 
 ---
 
