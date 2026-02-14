@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, It's Brokkr</h1>
-<h3 align="center">Creating cool stuff.</h3>
-
----
+<h1 align="center">Hi 👋, I'm Meriç (Brokkr)</h1>
+<h3 align="center">Design-led builder working at the intersection of identity, interfaces, and onchain systems.</h3>
 
 <img align="right" height="220px" src="https://media.giphy.com/media/H50uTdZIzW9BM0MJqA/giphy.gif" alt="xbrokkr" />
 
-- 🔭 Working on Turkey
-- 👨‍💻 All of my projects are available at [https://github.com/xbrokkr](https://github.com/xbrokkr)
-- 📝 I regularly write articles on [https://brokkr.medium.com/](https://brokkr.medium.com/)
-- 📫 Contact on **xbrokkr@proton.me**
+Meriç brings a rare blend of aesthetic sensibility and technical depth to the Web3 space. A true craftsman.
 
+---
+
+- 🧭 Building design-driven onchain products  
+- 🔗 Projects: https://github.com/xbrokkr  
+- 📰 Writing: https://brokkr.medium.com/  
+- ✉️ Contact: **merickalkan@icloud.com**
