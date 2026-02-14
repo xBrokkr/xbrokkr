@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meriç (Brokkr)</h1>
 <h3 align="center">Design-led builder shaping identity, interfaces, and onchain systems.</h3>
 
-Meriç brings a rare blend of aesthetic sensibility and technical depth to the Web3 space. A true craftsman.
+<p align="center">Meriç brings a rare blend of aesthetic sensibility and technical depth to the Web3 space. A true craftsman.</p>
 
 ---
 <img align="right" height="220px" src="https://media.giphy.com/media/H50uTdZIzW9BM0MJqA/giphy.gif" alt="xbrokkr" />
