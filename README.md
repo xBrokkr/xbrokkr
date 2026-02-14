@@ -3,8 +3,6 @@
 
 ---
 
-<h4 align="center">Profile Tracker 👀</h4>
-<br/>
 <img align="right" height="220px" src="https://media.giphy.com/media/H50uTdZIzW9BM0MJqA/giphy.gif" alt="xbrokkr" />
 
 - 🔭 Working on Turkey
