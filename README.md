@@ -7,14 +7,12 @@
 I design and build products where form, meaning, and protocol meet from identity layers to interface systems.
 
 **Focus**
-- Onchain identity & profiles
 - Design systems & product interfaces
 - Creative tooling & visual engines
 
 **Selected Work**
-- **SOCI4L** — wallet-to-profile identity layer  
-- **Floyka** — design-led studio & tools  
-- Framer / creative plugins & experiments  
+- **SOCI4L** — Turn your wallet into a measurable public identity.
+- **Floyka** — Design for brands and products across industries.
 
 **Links**
 - Projects → https://github.com/xbrokkr  
