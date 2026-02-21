@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meriç (Brokkr)</h1>
+<h1 align="center">Hi 👋 I'm Meriç (Brokkr)</h1>
 <h3 align="center">Design-led builder shaping identity, interfaces, and onchain systems.</h3>
 
 ---
