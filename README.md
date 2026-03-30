@@ -16,5 +16,5 @@ I design and build products where form, meaning, and protocol meet from identity
 
 **Links**
 - Projects → https://github.com/xbrokkr  
-- Writing → https://brokkr.medium.com/  
+- Website → https://merickalkan.cv  
 - Contact → **merickalkan@icloud.com**
