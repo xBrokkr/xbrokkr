@@ -11,7 +11,7 @@
 I build products end to end, from system architecture to the interface. My background is brand and product design, and it shapes how I build: systems first, details that make something feel right. Studying econometrics at Sakarya University.
 
 ### What I'm building
-- **[SOCI4L](https://soci4l.net)**: on-chain reputation layer on Avalanche (attestations, scoring, public profiles). I lead product. · [SDK](https://github.com/SOCI4LNET/SOCI4L-SDK)
+- **[SOCI4L](https://soci4l.net)**: on-chain reputation layer on Avalanche (attestations, scoring, public profiles). I lead product. [ElevenLabs Startup Grant](https://x.com/0xBrokkr/status/2120422120941334837) recipient. · [SDK](https://github.com/SOCI4LNET/SOCI4L-SDK)
 - **[StampUI](https://github.com/StampUI)**: production-ready React/Next.js UI blocks you own as source code, with a [CLI](https://github.com/StampUI/cli) and an [MCP server](https://github.com/StampUI/mcp) for AI coding tools.
 - **[Floyka](https://floyka.space)**: Framer Partner design studio. [9 plugins on the Framer Marketplace](https://www.framer.com/@floyka/), including [AsciiMotion](https://www.framer.com/marketplace/plugins/asciimotion/). Framer Site of the Year pin (2024).
 
