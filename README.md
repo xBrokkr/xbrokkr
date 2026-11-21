@@ -20,7 +20,7 @@ I design brand systems and build products where design, tooling and on-chain ide
 - **[multiclaude](https://github.com/Team1-Turkiye/multiclaude)**: splits one Claude Code task across multiple accounts and models, with cross-account resume.
 
 ### Community
-Part of the Avalanche Team1 Türkiye team (around 30 events a month across Türkiye) and President of SAÜ Blockchain.
+Community Lead at Avalanche Team1 Türkiye, where together we've run hundreds of events across the country, and President of SAÜ Blockchain.
 
 ### Links
 [Website](https://merickalkan.cv) · [X](https://x.com/0xBrokkr) · [LinkedIn](https://www.linkedin.com/in/brokkr/) · merickalkan@icloud.com
