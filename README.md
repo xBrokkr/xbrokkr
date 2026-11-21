@@ -8,7 +8,7 @@
   </a>
 </p>
 
-I design brand systems and build products where design, tooling and on-chain identity meet. Studying econometrics at Sakarya University.
+I build products end to end, from system architecture to the interface. My background is brand and product design, and it shapes how I build: systems first, details that make something feel right. Studying econometrics at Sakarya University.
 
 ### What I'm building
 - **[SOCI4L](https://soci4l.net)**: on-chain reputation layer on Avalanche (attestations, scoring, public profiles). I lead product. · [SDK](https://github.com/SOCI4LNET/SOCI4L-SDK)
