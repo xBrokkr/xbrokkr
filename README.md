@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Meriç 👋</h1>
 <p align="center">
-  Creative Director at <a href="https://floyka.space">Floyka</a> · Building <a href="https://soci4l.net">SOCI4L</a> & <a href="https://github.com/StampUI">StampUI</a> · Community Lead at <a href="https://github.com/Team1-Turkiye">Avalanche Team1 Türkiye</a> 🔺
+  Founder &amp; Creative Director at <a href="https://floyka.space">Floyka</a> · Building <a href="https://soci4l.net">SOCI4L</a> & <a href="https://github.com/StampUI">StampUI</a> · Community Lead at <a href="https://github.com/Team1-Turkiye">Avalanche Team1 Türkiye</a> 🔺
 </p>
 <p align="center">
   <a href="https://soci4l.net/tools/score/0x8ab00455c7a6a6176d9d23f46dc5af8a5d4f1dc7">
